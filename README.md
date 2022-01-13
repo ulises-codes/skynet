@@ -1,5 +1,5 @@
 # CLI Tool
 
 ```sh
-yarn ulises post ./blog
+yarn skynet create ./blog
 ```
