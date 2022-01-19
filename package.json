@@ -3,9 +3,11 @@
   "author": {
     "name": "Ulises Himely"
   },
-  "bin": "dist/index.js",
+  "bin": {
+    "skynet": "dist/index.js"
+  },
   "packageManager": "yarn@3.1.1",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "git://github.com/ulises-codes/skynet.git"
