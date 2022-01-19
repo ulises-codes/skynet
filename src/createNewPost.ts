@@ -84,7 +84,7 @@ export default async function createBlogPost(outDir = './blog') {
                           if (i === 0) {
                             fileContents += `${key}:\n`
                           }
-                          fileContents += `\t-${item}\n`
+                          fileContents += `\t- ${item}\n`
                         })
                         continue
                       }
